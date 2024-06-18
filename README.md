@@ -52,3 +52,46 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+# My Setup
+
+## Installing Windows
+I already had Windows 11 on my PC so I didn’t have to install it.
+
+## Installing VS Code
+I installed VS Code with the help of the tutors on the live sessions. First I entered Visual Studio code download on my Chrome browser. Then I selected VS code for Windows and downloaded it. After downloading I installed it by following the setup guide for Windows, and added it to Path on Environment variables. I also installed extensions like prettier, python, and so on.
+
+## Setting Up Git and GitHub
+I followed the live session recording and had many problems configuring and setting my git and git bash. I downloaded Git for Windows on Google Chrome and installed it, I also added it to Path in environment variables. I had a problem configuring my user name and email as I was a newbie and it wasn’t displaying exactly what I saw from the live session. So I thought I got the setup wrong meanwhile I didn’t. The next live session I watched cleared that up. I struggled with the configurations and commands but I have gotten better with it currently.
+
+## Installing Python and pip
+I downloaded Python for Windows on my Google Chrome browser and then followed the installation guide from my browser and Python installation recorded session. After installing I added it to Path on Environment variables.
+
+## Installing MySQL
+Installing MySQL for me was kind of tricky and difficult. Basically I followed the step-by-step process from the live session.
+
+## Google Docs Link
+[Link to Google Docs](# My Setup
+
+## Installing Windows
+I already had Windows 11 on my PC so I didn’t have to install it.
+
+## Installing VS Code
+I installed VS Code with the help of the tutors on the live sessions. First I entered Visual Studio code download on my Chrome browser. Then I selected VS code for Windows and downloaded it. After downloading I installed it by following the setup guide for Windows, and added it to Path on Environment variables. I also installed extensions like prettier, python, and so on.
+
+## Setting Up Git and GitHub
+I followed the live session recording and had many problems configuring and setting my git and git bash. I downloaded Git for Windows on Google Chrome and installed it, I also added it to Path in environment variables. I had a problem configuring my user name and email as I was a newbie and it wasn’t displaying exactly what I saw from the live session. So I thought I got the setup wrong meanwhile I didn’t. The next live session I watched cleared that up. I struggled with the configurations and commands but I have gotten better with it currently.
+
+## Installing Python and pip
+I downloaded Python for Windows on my Google Chrome browser and then followed the installation guide from my browser and Python installation recorded session. After installing I added it to Path on Environment variables.
+
+## Installing MySQL
+Installing MySQL for me was kind of tricky and difficult. Basically I followed the step-by-step process from the live session.
+
+## Google Docs Link (please view the document for step by step breakdown of my setup)
+[Link to Google Docs](https://docs.google.com/document/d/1LAmDuJMovu3FMBbzCPgoomT_nFvhpIYX2vqfz9fYwbE/edit?usp=sharing)
+
+
+
+[Link to google docs](https://docs.google.com/document/d/1LAmDuJMovu3FMBbzCPgoomT_nFvhpIYX2vqfz9fYwbE/edit?usp=sharing)
+
+
